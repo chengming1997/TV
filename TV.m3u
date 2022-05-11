@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,五星体育HD
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1,CCTV-1综合
+http://221.179.136.134:443/PLTV/88888888/224/3221226226/1.m3u8
+#EXTINF:-1,CCTV-13新闻
+http://221.179.136.143:443/PLTV/88888888/224/3221226316/1.m3u8
+#EXTINF:-1,CCTV-5
+http://221.179.136.141:443/PLTV/88888888/224/3221226469/1.m3u8
+#EXTINF:-1,凤凰资讯台
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,凤凰中文台
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,凤凰中文台（备用）
+http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1,TVBS 新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1,东森财经新闻
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1,民视HD
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1,民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8

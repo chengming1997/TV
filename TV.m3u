@@ -17,6 +17,10 @@ http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8
 http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1,盐城
 http://stream.0515yc.cn/yctv1/playlist.m3u8
+#EXTINF:-1,南通
+http://cm.wshls.homecdn.com/live/7cc9.m3u8
+#EXTINF:-1,崇川
+http://cm.wshls.homecdn.com/live/7cc1.m3u8
 #EXTINF:-1,苏州新闻综合
 https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
 #EXTINF:-1,苏州文化生活

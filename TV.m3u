@@ -13,12 +13,12 @@ http://39.134.66.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index
 http://39.134.66.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1,CCTV-1综合
 http://140.207.241.3:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
-#EXTINF:-1,CCTV-13新闻
-http://183.207.249.36:80/PLTV/4/224/3221227387/index.m3u8
 #EXTINF:-1,CCTV-5
 http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1,CCTV-5+
 http://221.179.136.134:443/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1,CCTV-13新闻
+http://39.136.48.10:8089/PLTV/88888888/224/3221226328/index.m3u8
 #EXTINF:-1,东方卫视
 http://140.207.241.3:8080/live/program/live/hddfws/4000000/d1.m3u8
 #EXTINF:-1,上海台
